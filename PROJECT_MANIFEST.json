@@ -1,0 +1,18 @@
+{
+  "project": "Logistics Data Analytics Internship",
+  "weeks": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "week3_dataset_rows": 500,
+  "week3_visualizations": 6,
+  "week4_models": [
+    "Linear Regression",
+    "Random Forest",
+    "Gradient Boosting"
+  ],
+  "selected_model_simulation": "Linear Regression",
+  "files_generated_for_weeks_3_4": true
+}
