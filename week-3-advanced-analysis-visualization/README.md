@@ -1,22 +1,18 @@
-# Week 3 – Advanced Data Analysis and Visualization
+# Week 3 — Advanced Data Analysis and Visualization
 
-This week focuses on advanced exploratory data analysis and visualization for logistics operations.
+This folder contains the Week 3 logistics EDA deliverables.
 
-## Analysis Areas
+## Contents
+- `Week_3_Advanced_Data_Analysis_and_Visualization_Report.docx`
+- `visualizations/` — embedded report figures
+- `week3_analysis.py` in the project `src/` folder
 
-- Delivery time distributions
-- Shipment volume by zone
-- Distance and delivery-time relationships
-- Transportation cost analysis
-- Traffic impact on delivery time
+## Focus
+- Central tendency and descriptive statistics
+- Distribution analysis
+- Zone and transport-mode comparisons
+- Distance/traffic relationships
 - Correlation analysis
-- Operational bottlenecks
-- Logistics efficiency insights
+- Operational insights and recommendations
 
-## Visualizations
-
-The `visualizations` folder contains the charts generated during the analysis.
-
-## Report
-
-The detailed Week 3 report is included in this folder.
+The dataset is simulated for internship/academic demonstration.
